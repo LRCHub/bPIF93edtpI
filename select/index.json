@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "消えてしまいそうです",
+  "base_artist": "ZUTOMAYO",
+  "createdAt": "2025-12-15T08:48:56.494207Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "消えてしまいそうです",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/01_消えてしまいそうです_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "消えてしまいそうです",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/02_消えてしまいそうです_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "消えてしまいそうです",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/03_消えてしまいそうです_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "消えてしまいそうです - Blush",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/04_消えてしまいそうです_-_Blush_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "消えてしまいそうです (Instrumental)",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/05_消えてしまいそうです_(Instrumental)_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "消えてしまいそうです",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/06_消えてしまいそうです_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "消えてしまいそうです",
+      "artist": "Zutto Mayonaka De Iinoni.",
+      "has_synced": true,
+      "path": "select/07_消えてしまいそうです_Zutto_Mayonaka_De_Iinoni..lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ずっと真夜中でいいのに。『消えてしまいそうです』MV  (ZUTOMAYO - Blush)",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/08_ずっと真夜中でいいのに。『消えてしまいそうです』MV_(ZUTOMAYO_-_Blush)_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "消えてしまいそうです - 本格中華喫茶・愛のペガサス ~羅武の香辛龍~ 2024 / LIVE",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/09_消えてしまいそうです_-_本格中華喫茶・愛のペガサス_~羅武の香辛龍~_2024___LIVE_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Blush (消えてしまいそうです)",
+      "artist": "Zutto Mayonaka de Iinoni. (ずっと真夜中でいいのに。)",
+      "has_synced": true,
+      "path": "select/10_Blush_(消えてしまいそうです)_Zutto_Mayonaka_de_Iinoni._(ずっと真夜中でいいのに。).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "消えてしまいそうです",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_01_消えてしまいそうです_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "消えてしまいそうです",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_02_消えてしまいそうです_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "消えてしまいそうです(1970s) - Live",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_03_消えてしまいそうです(1970s)_-_Live_ずっと真夜中でいいのに。.txt"
+    }
+  ]
+}
